@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Akoto</h1>
-<h3 align="center">Software Engineer and Machine Learning Enthusiast: Building Intelligent Solutions with Code</h3>
+<h3 align="center">Machine Learning Engineer and Software Developer: Harnessing Data to Create Intelligent Solutions</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianakoto" alt="ianakoto" /></a> </p>
 
