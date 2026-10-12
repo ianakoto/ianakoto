@@ -2,7 +2,7 @@
 
 **AI Engineer | Applied AI & Agent Systems**
 
-AI engineer leading platform development and building automation for invoice review, document workflows and operational data. Experience spans agent systems, customer-facing applications and reliable cloud pipelines.
+AI engineer leading platform development and building customer workflows for invoice review, supplier-email processing and operational data. Hands-on experience in Python, LangGraph, model evaluation and cloud pipeline delivery.
 
 I split my time between **London, UK and Ghana**, and am interested in long-term AI Engineer and Applied AI Engineer opportunities.
 
@@ -10,28 +10,29 @@ I split my time between **London, UK and Ghana**, and am interested in long-term
 
 **Brim - AI Engineer | September 2024 - Present**
 
-- Led development of Brim's AI platform, combining agent orchestration, memory, tool integrations and review interfaces to support customer workflows.
+- Led development of Brim's AI platform for finance, buying and restaurant operations, using Python and LangGraph for agent orchestration, memory, tool integrations and output review.
 - Developed invoice-processing workflows using the platform for a construction finance team, extracting data from emailed PDFs and generating review reports based on customer rules.
-- Built an ETL pipeline on Brim to extract, validate and load restaurant sales data into BigQuery, providing a consolidated data source for reporting and analysis.
+- Built an ETL workflow on Brim to consolidate restaurant sales data in BigQuery for reporting and analysis; validated daily ingestion and replay without duplicate publication.
 - Developed product-listing workflows on Brim to process supplier emails for a buying team; designed invoice-to-purchase-order matching and discrepancy checks for finance review.
-- Researched intent understanding and task evaluation to assess whether automated workflows achieved their stated goals.
+- Built a Python training, evaluation and inference pipeline on AWS SageMaker for research on translating user requests into task specifications, with versioned outputs for human review.
 
 **Omdena - Machine Learning Engineer | 2021 - 2022**
 
-Developed an activity-recommendation engine and collaborated on exploratory models relating user features, actions, and biological age.
+- Built an activity-recommendation engine using collaborative filtering and matrix factorisation to suggest actions from user similarities in biological-ageing research.
+- Trained linear-regression and random-forest models; used test-set error metrics, cross-validation and SHAP to analyse relationships between user features, activities and biological age.
 
 ## Selected public work
 
 - **[Gemma Solution Writeup Assistant](https://www.kaggle.com/code/ianakoto/gemma-llm-kaggle-solution-writeup-agent):** a Gemma-based assistant for explaining competition solution write-ups, covering data preparation, synthetic question-answer generation, LoRA fine-tuning, and conversational inference. Received an [Honorable Mention](https://www.kaggle.com/certification/badges/ianakoto/89) in Google - AI Assistants for Data Tasks with Gemma (2024). The published notebook also earned a bronze notebook medal.
 - **[Google - Fast or Slow? Predict AI Model Runtime](https://www.kaggle.com/competitions/predict-ai-model-runtime):** earned a bronze competition medal as part of a team placing **88th of 616** in 2023. [Competition results](https://www.kaggle.com/ianakoto/competitions).
 - **[IRC chatbot architecture](https://github.com/ianakoto/IRC-Agent):** public architecture diagrams for an insurance support chatbot project. The repository documents the design; it does not contain the chatbot implementation. The paid engagement ran from April to August 2024, followed by occasional unpaid support.
-- **FloodAlertgh:** earlier project work on computer-vision models, an LLM chatbot, and a mobile application for flood-related information in Ghana, using GCP, Firebase, and Earth Engine.
+- **FloodAlertgh:** Built computer-vision models, an LLM chatbot and a mobile app to help users access flood-related information in Ghana, with cloud components using GCP, Firebase and Earth Engine.
 
 **Recognition:** KaggleX Fellow.
 
 ## Tools I use
 
-Python, LangChain, LangGraph, Google ADK, TensorFlow/Keras, LoRA fine-tuning, React, Node.js, Express, AWS, BigQuery, GCP, Firebase, and Google Earth Engine.
+Python, LangChain, LangGraph, Google ADK, TensorFlow/Keras, scikit-learn, SHAP, LoRA fine-tuning, React, Node.js, Express, AWS (SageMaker), BigQuery, GCP, Firebase, and Google Earth Engine.
 
 ## Connect
 
