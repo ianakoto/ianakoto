@@ -14,7 +14,7 @@ I split my time between **London, UK and Ghana**, and am interested in long-term
 - Fixed stale execution state and PDF detection errors that caused scheduled invoice runs to skip documents; incorporated customer feedback into processing refinements.
 - Migrated a restaurant group's daily sales-data pipeline from LangGraph to Python on AWS; loaded a seven-day backlog into BigQuery and verified replay without duplicate publication.
 - Developed an email-driven product-listing proof of concept for a buying team that reached customer demonstration; contributed to invoice/PO reconciliation design.
-- Contributed to agent orchestration, memory and review interfaces, and to intent-understanding research on evaluating whether automated tasks met their stated goals.
+- Led AI development across agent orchestration, memory and review interfaces, with a focus on evaluating whether automated workflows met their intended goals.
 
 **Omdena - Machine Learning Engineer | 2021 - 2022**
 
