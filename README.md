@@ -14,7 +14,7 @@ I split my time between **London, UK and Ghana**, and am interested in long-term
 - Developed agent workflows for a construction finance team to extract emailed invoices and generate PDF/XLSX review reports using customer rules; verified scheduled delivery and duplicate controls in production.
 - Built daily restaurant sales ETL on Brim for a BigQuery reporting warehouse; validated 45,914 completed orders across seven days with no missing dates or duplicate raw order identities.
 - Built workflows that turn supplier emails into product listings for a buying team; designed invoice-to-purchase-order reconciliation checks for finance review.
-- Built and deployed a Python training and evaluation pipeline on AWS SageMaker to support checking AI-generated requirements against user requests, with versioned models and inference outputs for human review.
+- Researched intent understanding for AI agents; designed structured representations and built a Python experiment harness to compare interpretations of business conversations, testing for lost constraints and unsupported instructions.
 
 **Omdena - Machine Learning Engineer | 2021 - 2022**
 
