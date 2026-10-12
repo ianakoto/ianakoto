@@ -2,7 +2,7 @@
 
 **AI Engineer | Applied AI & Agent Systems**
 
-AI engineer building tools for invoice review, document workflows and operational data. Experience includes customer-facing automation, reliable cloud pipelines, multi-agent systems and applied machine learning.
+AI engineer leading platform development and building automation for invoice review, document workflows and operational data. Experience spans agent systems, customer-facing applications and reliable cloud pipelines.
 
 I split my time between **London, UK and Ghana**, and am interested in long-term AI Engineer and Applied AI Engineer opportunities.
 
@@ -10,15 +10,15 @@ I split my time between **London, UK and Ghana**, and am interested in long-term
 
 **Brim - AI Engineer | September 2024 - Present**
 
-- Built AI workflows for a construction finance team to extract invoice data from email and PDFs and produce review reports, translating customer document-handling rules into processing logic.
-- Fixed stale execution state and PDF detection errors that caused scheduled invoice runs to skip documents; incorporated customer feedback into processing refinements.
-- Migrated a restaurant group's daily sales-data pipeline from LangGraph to Python on AWS; loaded a seven-day backlog into BigQuery and verified replay without duplicate publication.
-- Developed an email-driven product-listing proof of concept for a buying team that reached customer demonstration; contributed to invoice/PO reconciliation design.
-- Led AI development across agent orchestration, memory and review interfaces, with a focus on evaluating whether automated workflows met their intended goals.
+- Led development of Brim's AI platform, combining agent orchestration, memory, tool integrations and review interfaces to support customer workflows.
+- Developed invoice-processing workflows using the platform for a construction finance team, extracting data from emailed PDFs and generating review reports based on customer rules.
+- Developed a restaurant group's sales-data workflow on the platform, then migrated daily ingestion to Python on AWS; loaded a seven-day backlog into BigQuery and verified replay without duplicate publication.
+- Developed a product-listing proof of concept for a buying team using the platform, reaching customer demonstration; translated finance requirements into an invoice/PO reconciliation design.
+- Researched intent understanding and task evaluation to assess whether automated workflows achieved their stated goals.
 
 **Omdena - Machine Learning Engineer | 2021 - 2022**
 
-Collaborative project work on an activity-recommendation engine and exploratory models relating user features, actions, and biological age.
+Developed an activity-recommendation engine and collaborated on exploratory models relating user features, actions, and biological age.
 
 ## Selected public work
 
