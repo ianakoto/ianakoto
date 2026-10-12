@@ -12,8 +12,8 @@ I split my time between **London, UK and Ghana**, and am interested in long-term
 
 - Led development of Brim's AI platform, combining agent orchestration, memory, tool integrations and review interfaces to support customer workflows.
 - Developed invoice-processing workflows using the platform for a construction finance team, extracting data from emailed PDFs and generating review reports based on customer rules.
-- Developed a restaurant group's sales-data workflow on the platform, then migrated daily ingestion to Python on AWS; loaded a seven-day backlog into BigQuery and verified replay without duplicate publication.
-- Developed a product-listing proof of concept for a buying team using the platform, reaching customer demonstration; translated finance requirements into an invoice/PO reconciliation design.
+- Built an ETL pipeline on Brim to extract, validate and load restaurant sales data into BigQuery, providing a consolidated data source for reporting and analysis.
+- Developed product-listing workflows on Brim to process supplier emails for a buying team; designed invoice-to-purchase-order matching and discrepancy checks for finance review.
 - Researched intent understanding and task evaluation to assess whether automated workflows achieved their stated goals.
 
 **Omdena - Machine Learning Engineer | 2021 - 2022**
