@@ -11,8 +11,8 @@ I split my time between **London, UK and Ghana**, and am interested in long-term
 **Brim - AI Engineer | September 2024 - Present**
 
 - Led development of Brim's AI platform to automate document and data workflows for finance, buying and restaurant teams, using Python and LangGraph for orchestration and output review.
-- Developed invoice-processing workflows using the platform for a construction finance team, extracting data from emailed PDFs and generating review reports based on customer rules.
-- Built an ETL workflow on Brim to consolidate restaurant sales data in BigQuery for reporting and analysis; validated daily ingestion and replay without duplicate publication.
+- Developed agent workflows for a construction finance team to extract emailed invoices and generate PDF/XLSX review reports using customer rules; verified scheduled delivery and duplicate controls in production.
+- Built daily restaurant sales ETL on Brim for a BigQuery reporting warehouse; validated 45,914 completed orders across seven days with no missing dates or duplicate raw order identities.
 - Built workflows that turn supplier emails into product listings for a buying team; designed invoice-to-purchase-order reconciliation checks for finance review.
 - Built a Python training, evaluation and inference pipeline on AWS SageMaker for research on translating user requests into task specifications, with versioned outputs for human review.
 
