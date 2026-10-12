@@ -2,7 +2,7 @@
 
 **AI Engineer | Applied AI & Agent Systems**
 
-I build AI applications that connect language models to business knowledge, tools, and user workflows. My work spans agent orchestration, retrieval-augmented generation, agent memory, and interfaces for working with AI outputs.
+AI engineer building tools for invoice review, document workflows and operational data. Experience includes customer-facing automation, reliable cloud pipelines, multi-agent systems and applied machine learning.
 
 I split my time between **London, UK and Ghana**, and am interested in long-term AI Engineer and Applied AI Engineer opportunities.
 
@@ -10,9 +10,11 @@ I split my time between **London, UK and Ghana**, and am interested in long-term
 
 **Brim - AI Engineer | September 2024 - Present**
 
-- Built multi-agent workflows and tool integrations using LangChain, LangGraph, and Google ADK.
-- Implemented retrieval and agent-memory components and developed generative UI components.
-- Contributed to intent-understanding and evaluation research, documenting ambiguity, evidence requirements, and the limits of experimental results.
+- Built AI workflows for a construction finance team to extract invoice data from email and PDFs and produce review reports, translating customer document-handling rules into processing logic.
+- Fixed stale execution state and PDF detection errors that caused scheduled invoice runs to skip documents; incorporated customer feedback into processing refinements.
+- Migrated a restaurant group's daily sales-data pipeline from LangGraph to Python on AWS; loaded a seven-day backlog into BigQuery and verified replay without duplicate publication.
+- Developed an email-driven product-listing proof of concept for a buying team that reached customer demonstration; contributed to invoice/PO reconciliation design.
+- Contributed to agent orchestration, memory and review interfaces, and to intent-understanding research on evaluating whether automated tasks met their stated goals.
 
 **Omdena - Machine Learning Engineer | 2021 - 2022**
 
@@ -29,7 +31,7 @@ Collaborative project work on an activity-recommendation engine and exploratory 
 
 ## Tools I use
 
-Python, LangChain, LangGraph, Google ADK, TensorFlow/Keras, LoRA fine-tuning, React, Node.js, Express, GCP, Firebase, and Google Earth Engine.
+Python, LangChain, LangGraph, Google ADK, TensorFlow/Keras, LoRA fine-tuning, React, Node.js, Express, AWS, BigQuery, GCP, Firebase, and Google Earth Engine.
 
 ## Connect
 
