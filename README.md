@@ -10,10 +10,10 @@ I split my time between **London, UK and Ghana**, and am interested in long-term
 
 **Brim - AI Engineer | September 2024 - Present**
 
-- Led development of Brim's AI platform for finance, buying and restaurant operations, using Python and LangGraph for agent orchestration, memory, tool integrations and output review.
+- Led development of Brim's AI platform to automate document and data workflows for finance, buying and restaurant teams, using Python and LangGraph for orchestration and output review.
 - Developed invoice-processing workflows using the platform for a construction finance team, extracting data from emailed PDFs and generating review reports based on customer rules.
 - Built an ETL workflow on Brim to consolidate restaurant sales data in BigQuery for reporting and analysis; validated daily ingestion and replay without duplicate publication.
-- Developed product-listing workflows on Brim to process supplier emails for a buying team; designed invoice-to-purchase-order matching and discrepancy checks for finance review.
+- Built workflows that turn supplier emails into product listings for a buying team; designed invoice-to-purchase-order reconciliation checks for finance review.
 - Built a Python training, evaluation and inference pipeline on AWS SageMaker for research on translating user requests into task specifications, with versioned outputs for human review.
 
 **Omdena - Machine Learning Engineer | 2021 - 2022**
@@ -24,7 +24,7 @@ I split my time between **London, UK and Ghana**, and am interested in long-term
 ## Selected public work
 
 - **[Gemma Solution Writeup Assistant](https://www.kaggle.com/code/ianakoto/gemma-llm-kaggle-solution-writeup-agent):** a Gemma-based assistant for explaining competition solution write-ups, covering data preparation, synthetic question-answer generation, LoRA fine-tuning, and conversational inference. Received an [Honorable Mention](https://www.kaggle.com/certification/badges/ianakoto/89) in Google - AI Assistants for Data Tasks with Gemma (2024). The published notebook also earned a bronze notebook medal.
-- **[Google - Fast or Slow? Predict AI Model Runtime](https://www.kaggle.com/competitions/predict-ai-model-runtime):** earned a bronze competition medal as part of a team placing **88th of 616** in 2023. [Competition results](https://www.kaggle.com/ianakoto/competitions).
+- **[Google - Fast or Slow? Predict AI Model Runtime](https://www.kaggle.com/competitions/predict-ai-model-runtime):** earned a bronze competition medal as part of a team placing **88th of 616** in 2023, predicting runtimes for computational graphs and compiler configurations. [Competition results](https://www.kaggle.com/ianakoto/competitions).
 - **[IRC chatbot architecture](https://github.com/ianakoto/IRC-Agent):** public architecture diagrams for an insurance support chatbot project. The repository documents the design; it does not contain the chatbot implementation. The paid engagement ran from April to August 2024, followed by occasional unpaid support.
 - **FloodAlertgh:** Built computer-vision models, an LLM chatbot and a mobile app to help users access flood-related information in Ghana, with cloud components using GCP, Firebase and Earth Engine.
 
@@ -32,7 +32,7 @@ I split my time between **London, UK and Ghana**, and am interested in long-term
 
 ## Tools I use
 
-Python, LangChain, LangGraph, Google ADK, TensorFlow/Keras, scikit-learn, SHAP, LoRA fine-tuning, React, Node.js, Express, AWS (SageMaker), BigQuery, GCP, Firebase, and Google Earth Engine.
+Python, LangChain, LangGraph, multi-agent systems, model evaluation, TensorFlow/Keras, scikit-learn, SHAP, LoRA fine-tuning, AWS (SageMaker), BigQuery, GCP, and React.
 
 ## Connect
 
